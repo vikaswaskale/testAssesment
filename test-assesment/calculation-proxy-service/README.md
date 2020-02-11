@@ -16,7 +16,7 @@ Scripts
 	Maven Build JAR
 		* mvn clean install -DskipTests
 	Maven Start Spring Boot Server
-		* java -jar target/product-api-0.0.1-SNAPSHOT.jar
+		* java -jar target/calculation-proxy-api-0.0.1-SNAPSHOT.jar
 	
 
 Technologies Used
